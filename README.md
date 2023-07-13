@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi welcome to my GitHub, please take a look at my projects.
 
 <!--
 **AliGulzar23/AliGulzar23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
